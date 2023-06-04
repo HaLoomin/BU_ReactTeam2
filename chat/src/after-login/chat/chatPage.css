@@ -1,0 +1,22 @@
+#chat-top {
+    background-color: beige;
+    width: 100%;
+    height: 10vh;
+    margin: 0.5vh;
+}
+
+#chat-mid {
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 70vh;
+    overflow: auto;
+    text-align: bottom;
+    margin: 0.5vh;
+}
+
+#chat-bottom {
+    background-color: brown;
+    width: 100%;
+    height: 20vh;
+    margin: 0.5vh;
+}

@@ -1,0 +1,14 @@
+#send_input {
+    width: 100%;
+    height: 100px;
+}
+
+#send_bt_mine {
+    width: 50%;
+    height: 70px;
+}
+
+#send_bt_notmine {
+    width: 50%;
+    height: 70px;
+}
