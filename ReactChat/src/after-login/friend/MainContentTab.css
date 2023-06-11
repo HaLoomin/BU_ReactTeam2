@@ -1,0 +1,9 @@
+#friend_list_div {
+    height: 100vh;
+    overflow-x: auto;
+  }
+
+#chat_room_list_div{
+    height: 100vh;
+    overflow-x: auto;
+}

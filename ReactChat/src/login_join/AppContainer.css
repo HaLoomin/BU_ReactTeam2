@@ -1,0 +1,141 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  transform:translate(0%,100%);
+  
+}
+
+::placeholder {
+  color: #5e5e5e;
+}
+
+.Input {
+  background-color: rgb(203, 232, 253);
+  border-radius: 10px;
+}
+
+.Login {
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: rgb(101, 170, 255);
+  border-radius: 10px;
+
+}
+
+.Signup {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: rgb(101, 170, 255);
+  border-radius: 10px;
+}
+
+.Failed {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 10px;
+  background-color: rgb(210, 235, 255);
+  box-shadow: 0 3px 3px 0 rgba(34, 36, 38, 0.15);
+}
+
+.SignupSuccess {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 10px;
+  background-color: rgb(210, 235, 255);
+  box-shadow: 0 3px 3px 0 rgba(34, 36, 38, 0.15);
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.action-button {
+  margin: 10px;
+  padding: 5px 20px;
+  font-size: 16px;
+  background-color: #3f86d3;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  
+
+}
+.action-button:hover {
+
+  background-color: orange;
+
+}
+
+.action-button:active {
+
+  background-color: rgb(61, 118, 252);
+
+}
+
+
+.close-button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  font-size: 14px;
+  background-color: #35537b;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.modal_body {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  width: 700px;
+  height: 600px;
+
+  padding-top: 20%;
+
+  text-align: center;
+  
+  background-color: rgb(101, 170, 255);
+  border-radius: 20px;
+  box-shadow: 0 2px 3px 0 rgba(34, 36, 38, 0.15);
+
+  transform: translateX(-50%) translateY(-50%);
+}
+

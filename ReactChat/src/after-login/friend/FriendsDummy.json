@@ -1,0 +1,18 @@
+{
+  "myfriends": [
+    { "id": 1, "uId": "qqq", "name": "오진호", "phone": "01012345678", "photo": "https://picsum.photos/id/10/45" },
+    { "id": 2, "uId": "www", "name": "윤여원", "phone": "01045678900", "photo": "https://picsum.photos/id/11/45" },
+    { "id": 3, "uId": "eee", "name": "장민관", "phone": "01078988900", "photo": "https://picsum.photos/id/12/45" },
+    { "id": 4, "uId": "rrr", "name": "조성훈", "phone": "01078988900", "photo": "https://picsum.photos/id/13/45" },
+    { "id": 5, "uId": "aaa", "name": "백석대", "phone": "01078984568", "photo": "https://picsum.photos/id/14/45" },
+    { "id": 6, "uId": "sss", "name": "백문대", "phone": "01001234568", "photo": "https://picsum.photos/id/15/45" },
+    { "id": 7, "uId": "ddd", "name": "리액트", "phone": "01007789568", "photo": "https://picsum.photos/id/16/45" }
+  ],
+  "customer": [
+    { "id": 11, "uId": "fff", "name": "김가나", "phone": "01012345678", "photo": "https://picsum.photos/id/20/45" },
+    { "id": 12, "uId": "zzz", "name": "나가나", "phone": "01012345678", "photo": "https://picsum.photos/id/21/45" },
+    { "id": 13, "uId": "xxx", "name": "박가나", "phone": "01012345678", "photo": "https://picsum.photos/id/22/45" },
+    { "id": 14, "uId": "ccc", "name": "이가나", "phone": "01012345678", "photo": "https://picsum.photos/id/23/45" },
+    { "id": 15, "uId": "vvv", "name": "최가나", "phone": "01012345678", "photo": "https://picsum.photos/id/24/45" }
+  ]
+}
